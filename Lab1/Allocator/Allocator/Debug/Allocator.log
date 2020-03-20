@@ -1,0 +1,13 @@
+﻿  Memory.cpp
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Allocator\Memory.cpp(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Allocator\Memory.cpp(43,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Allocator\Memory.cpp(51,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Allocator\Memory.cpp(53,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Allocator\Memory.cpp(66,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Allocator\Memory.cpp(77,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Allocator\Memory.cpp(88,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Allocator\Memory.cpp(100,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Allocator\Memory.cpp(126,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Allocator\Memory.cpp(127,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Allocator\Memory.cpp(133,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Allocator.vcxproj -> C:\Users\Oleksandra\Desktop\OperatingSystems\Lab1\Allocator\Debug\Allocator.exe
