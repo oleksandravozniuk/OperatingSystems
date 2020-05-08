@@ -1,0 +1,11 @@
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab3\RandomChoice\RandomChoice\bin\Debug\RandomChoice.exe.config
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab3\RandomChoice\RandomChoice\bin\Debug\RandomChoice.exe
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab3\RandomChoice\RandomChoice\bin\Debug\RandomChoice.pdb
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab3\RandomChoice\RandomChoice\obj\Debug\RandomChoice.csprojAssemblyReference.cache
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab3\RandomChoice\RandomChoice\obj\Debug\RandomChoice.exe
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab3\RandomChoice\RandomChoice\obj\Debug\RandomChoice.pdb
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab3\RandomChoice\RandomChoice\bin\Debug\EntityFramework.dll
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab3\RandomChoice\RandomChoice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab3\RandomChoice\RandomChoice\bin\Debug\EntityFramework.xml
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab3\RandomChoice\RandomChoice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oleksandra\Desktop\OperatingSystems\Lab3\RandomChoice\RandomChoice\obj\Debug\RandomChoice.csproj.CopyComplete
