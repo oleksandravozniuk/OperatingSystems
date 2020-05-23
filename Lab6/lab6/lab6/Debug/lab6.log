@@ -1,0 +1,4 @@
+﻿  lab6.cpp
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+lab6.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+  lab6.vcxproj -> C:\Users\Oleksandra\Desktop\OperatingSystems\Lab6\lab6\Debug\lab6.exe
